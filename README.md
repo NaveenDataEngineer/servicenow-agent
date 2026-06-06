@@ -1,5 +1,3 @@
-Here it is — select all and copy:
-
 ServiceNow AI Agent
 An intelligent agent that evaluates ideas using Groq LLM, scores them automatically, and creates ServiceNow tickets.
 What it does
